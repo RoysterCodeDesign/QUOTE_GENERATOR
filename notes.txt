@@ -4,3 +4,9 @@ https://heropatterns.com/
 free fonts
 https://fonts.google.com/
 
+font awesome 6
+https://fontawesome.com/
+    <script src="https://kit.fontawesome.com/9da6cd2e5a.js" crossorigin="anonymous"></script>
+
+Quote Fetcher
+https://quotes-react.netlify.app/
