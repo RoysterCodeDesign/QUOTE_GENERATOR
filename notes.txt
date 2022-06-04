@@ -10,3 +10,17 @@ https://fontawesome.com/
 
 Quote Fetcher
 https://quotes-react.netlify.app/
+
+Math.random()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+Tiwitter URL
+https://twitter.com/intent/tweet
+
+
+struggles
+<i> outside of span so the text was not taking
+ extra space after 'twitter '
+const twitterBtn = document.getElementById('twitter')
+which caused the twitter pop up post to fail and generate error in the console of developer tools.
+
